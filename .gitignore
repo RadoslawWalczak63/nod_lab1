@@ -1,7 +1,7 @@
 *.CSV
 *.csv
 *.zip
-*.docx
+~$*
 zadanie.pdf
 .DS_Store
 .venv/
